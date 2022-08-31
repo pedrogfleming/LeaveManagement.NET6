@@ -1,7 +1,7 @@
 ﻿using Application.DTOs.Common;
 using Application.DTOs.LeaveType;
 
-namespace Application.DTOs
+namespace Application.DTOs.LeaveAllocation
 {
     public class LeaveAllocationDto : BaseDto
     {

@@ -1,5 +1,6 @@
 ﻿using Application.DTOs;
 using Application.DTOs.LeaveRequest;
+using Application.DTOs.LeaveType;
 using AutoMapper;
 using Domain;
 

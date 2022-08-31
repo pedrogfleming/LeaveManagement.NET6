@@ -1,4 +1,4 @@
-﻿using Application.DTOs;
+﻿using Application.DTOs.LeaveType;
 using MediatR;
 
 namespace Application.Features.LeaveType.Requests.Queries

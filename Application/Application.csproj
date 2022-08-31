@@ -15,13 +15,4 @@
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Features\LeaveAllocations\Handlers\Commands\" />
-    <Folder Include="Features\LeaveAllocations\Requests\Commands\" />
-    <Folder Include="Features\LeaveRequest\Handlers\Commands\" />
-    <Folder Include="Features\LeaveRequest\Requests\Commands\" />
-    <Folder Include="Features\LeaveType\Handlers\Commands\" />
-    <Folder Include="Features\LeaveType\Requests\Commands\" />
-  </ItemGroup>
-
 </Project>
