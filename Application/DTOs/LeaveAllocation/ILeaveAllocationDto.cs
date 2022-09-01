@@ -1,8 +1,6 @@
-﻿using Application.DTOs.Common;
-
-namespace Application.DTOs.LeaveAllocation
+﻿namespace Application.DTOs.LeaveAllocation
 {
-    public class CreateLeaveAllocationDto : ILeaveAllocationDto
+    public interface ILeaveAllocationDto
     {
         public int NumberOfDays { get; set; }
         public int LeaveTypeId { get; set; }
